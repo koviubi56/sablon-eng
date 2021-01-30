@@ -40,3 +40,5 @@ Submit the issue, and done!
 ### Our rules
 #### [Code of conduct]([WRITE])
 #### [License]([WRITE])
+
+__If you found any bad things: **k56.report@hash.fyi**__
