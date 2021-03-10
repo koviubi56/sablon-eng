@@ -27,6 +27,6 @@ We don't support everything forever.
 
 (YYYY.MM.DD.)
 
-New stuffs: [WRITE]
+Mainstream (New stuffs + bugfixes + security updates): [WRITE]
 
-Bug fixes: [WRITE]
+Extended (~~New stuffs~~ + bugfixes + security updates): [WRITE]
